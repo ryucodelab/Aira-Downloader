@@ -1,0 +1,8 @@
+python-telegram-bot>=21.0
+yt-dlp>=2025.1.15
+requests>=2.32.0
+python-dotenv>=1.0.1
+speedtest-cli
+gallery-dl
+instaloader
+beautifulsoup4
